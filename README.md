@@ -1,5 +1,6 @@
 # PSCF-for-curising-observation
-An R script for applying PSCF on curising observation/PSCF算法运用于走航观测
+An R script for applying PSCF on curising observation/PSCF算法运用于走航观测.
+
 Atmospheric pollutant observation on mobile platforms, which is also known as cruising observation has been gaining lots of popularity. Instrumentations or sensors are usually installed on electronic vehicles (EV), drones or aircrafts. This type of observation is not constrained by a fixed location, which can largely enhance geographical resolution.
 
 The temporal resolution of those instrumentations or sensors installed on the mobile platform is fairly high (e.g. signal per second). With a large quantity of data collected, there is a need for constructing a meaningful statistics from the data.
